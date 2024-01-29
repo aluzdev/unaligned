@@ -32,7 +32,7 @@ export default {
 	theme: {
 		extend: {
 			fontFamily: {
-				sans: ['Roboto', ...defaultTheme.fontFamily.sans],
+				serif: ['cinzel', ...defaultTheme.fontFamily.serif],
 			},
 		},
 	},
